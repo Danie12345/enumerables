@@ -6,6 +6,18 @@ Linters for Ruby. Microverse program.
 
 ## Authors
 
+👤 **Daniel Malo**
+
+- GitHub: [@Danie12345](https://github.com/Danie12345)
+- Twitter: [@DanielM_v4](https://twitter.com/DanielM_v4)
+- LinkedIn: [Daniel Malo](https://linkedin.com/in/daniel-malo)
+
+👤 **Mahmoud**
+
+- GitHub: [@anagudelogu](https://github.com/anagudelogu)
+- Twitter: [@AgudeloAndres\_\_](https://twitter.com/AgudeloAndres__)
+- LinkedIn: [Andres Agudelo Guzman](https://linkedin.com/in/aagst)
+
 👤 **Andres Agudelo**
 
 - GitHub: [@anagudelogu](https://github.com/anagudelogu)
