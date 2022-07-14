@@ -1,10 +1,8 @@
 module MyEnumerable
-  def all?(&block)
+  def all?
     each do |element|
-      until block.call(element)
-        return false
-      end
+      return false until yield element
     end
-    return true
+    true
   end
 end
