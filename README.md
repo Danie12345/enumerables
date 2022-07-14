@@ -8,9 +8,8 @@ Linters for Ruby. Microverse program.
 
 👤 **Mahmoud**
 
-- GitHub: [@anagudelogu](https://github.com/anagudelogu)
-- Twitter: [@AgudeloAndres\_\_](https://twitter.com/AgudeloAndres__)
-- LinkedIn: [Andres Agudelo Guzman](https://linkedin.com/in/aagst)
+- GitHub: [@devMahmoud](https://github.com/devMahmoud)
+- LinkedIn: [Mahmoud Makhlouf](https://www.linkedin.com/in/mahmoud-abdelkader-makhlouf/)
 
 👤 **Andres Agudelo**
 

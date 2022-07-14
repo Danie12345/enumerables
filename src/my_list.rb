@@ -31,3 +31,6 @@ p(list.any? { |e| e == 5 })
 p(list2.any? { |e| e.match(/w/) })
 
 p(list2.any? { |e| e.match(/a/) })
+
+p(list.filter?(&:even?))
+# [2, 4]
