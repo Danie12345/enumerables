@@ -13,7 +13,7 @@ module MyEnumerable
     false
   end
 
-  def filter?
+  def filter
     result = []
     list.each do |element|
       result << element if yield element
