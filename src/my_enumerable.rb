@@ -1,7 +1,7 @@
 module MyEnumerable
   def all?
-    each do |element|
-      return false until yield element
+    list.each do |element|
+      return false unless yield element
     end
     true
   end
