@@ -23,3 +23,11 @@ p(list.all? { |e| e > 5 })
 p(list2.all? { |e| e.match?(/t/) })
 
 p(list2.all? { |e| e.match?(/a/) })
+
+p(list.any? { |e| e == 2 })
+# => true
+p(list.any? { |e| e == 5 })
+# => false
+p(list2.any? { |e| e.match(/w/) })
+
+p(list2.any? { |e| e.match(/a/) })
