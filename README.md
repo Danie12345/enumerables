@@ -2,7 +2,14 @@
 
 ## Ruby Rubocop Template
 
-Linters for Ruby. Microverse program.
+In this project we created an enumerable as a mixin/module, and included it in the custom list class. The enumerable contains the #all?, #any?, and #filter methods.
+
+## Setup Project
+- Clone repo.
+- Install dependencies with `bundle install`
+
+## Usage
+- Run test with `ruby lib/test_methods.rb`
 
 ## Authors
 
